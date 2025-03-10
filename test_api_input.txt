@@ -1,0 +1,44 @@
+{
+  "Type": "L",
+  "Air_temperature": 298.2,
+  "Process_temperature": 308.7,
+  "Rotational_speed": 1408,
+  "Torque": 46.3,
+  "Tool_wear": 3
+}
+Output-->>> 0
+
+{
+  "Type": "L",
+  "Air_temperature": 298.9,
+  "Process_temperature": 309.1,
+  "Rotational_speed": 2861,
+  "Torque": 4.6,
+  "Tool_wear": 143
+}
+
+Output-->> 1
+
+
+
+{
+  "Type": "L",
+  "Air_temperature": 298.9,
+  "Process_temperature": 309,
+  "Rotational_speed": 1410,
+  "Torque": 65.7,
+  "Tool_wear": 191
+}
+
+Output-->> 1
+
+{
+  "Type": "H",
+  "Air_temperature": 299,
+  "Process_temperature": 309,
+  "Rotational_speed": 1436,
+  "Torque": 43.9,
+  "Tool_wear": 20
+}
+
+Output-->> 0
